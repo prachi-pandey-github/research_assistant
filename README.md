@@ -5,6 +5,7 @@ This Streamlit app enables users to upload PDF or TXT documents, receive concise
 🚀 Setup Instructions
 1. Clone the repository
 git clone https://github.com/your-username/document-ai-assistant.git
+
 cd document-ai-assistant
 
 2. Create a virtual environment
