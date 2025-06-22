@@ -566,9 +566,6 @@ def main():
         - Comprehensive answer evaluation
         """)
     
-    # Footer
-    st.markdown("---")
-    st.markdown("*🤖 Built with Streamlit & Google Gemini AI • Intelligent Document Processing*")
-
+    
 if __name__ == "__main__":
     main()
