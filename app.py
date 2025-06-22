@@ -1,5 +1,8 @@
 import streamlit as st
 import PyPDF2
+import io
+import os
+import json
 import re
 from typing import List, Dict, Tuple
 import google.generativeai as genai
