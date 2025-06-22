@@ -1,4 +1,5 @@
 📄 Document-Aware AI Assistant with Gemini
+
 This Streamlit app enables users to upload PDF or TXT documents, receive concise AI-generated summaries, ask questions with contextual answers and justifications, and test their comprehension through intelligent challenge questions.
 
 🚀 Setup Instructions
