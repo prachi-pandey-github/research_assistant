@@ -1,6 +1,6 @@
 📄 Document-Aware AI Assistant with Gemini  
 
-Live app: https://researchassistant-4dxby3yskuvafp6ams6n2b.streamlit.app/
+Live app: https://smartassistant-4dxby3yskuvafp6ams6n2b.streamlit.app/
 
 This Streamlit app enables users to upload PDF or TXT documents, receive concise AI-generated summaries, ask questions with contextual answers and justifications, and test their comprehension through intelligent challenge questions.
 
