@@ -558,12 +558,6 @@ def main():
            - **💬 Ask Anything**: Free-form Q&A powered by Gemini
            - **🎯 Challenge Me**: AI-generated comprehension tests
         4. **🧠 Learn**: Get intelligent answers with detailed justifications
-        
-        ### 🌟 Powered by Google Gemini AI
-        - Advanced natural language understanding
-        - Context-aware document analysis  
-        - Intelligent question generation
-        - Comprehensive answer evaluation
         """)
     
     
