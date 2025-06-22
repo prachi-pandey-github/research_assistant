@@ -18,6 +18,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🧠 Architecture & Reasoning Flow
+
 🔹 1. Document Upload & Preprocessing
 Users upload a .pdf or .txt document.
 
@@ -43,7 +44,7 @@ Gemini provides:
 
 📖 Source Snippet (quote from document)
 
-🔹 5. Challenge Me Mode
+🔹 4. Challenge Me Mode
 Gemini creates 3 logic-driven questions:
 
 One each for comprehension, analysis, and inference.
@@ -56,7 +57,7 @@ Users answer and receive:
 
 🔍 Justification and reference from the document
 
-🔹 6. Session Management
+🔹 5. Session Management
 The app maintains state for:
 
 Uploaded document
@@ -68,12 +69,14 @@ Interaction history
 Challenge questions
 
 📁 File Structure
-bash
-Copy
-Edit
+
 ├── app.py                  # Main Streamlit app      
+
 ├── requirements.txt        # Python dependencies
+
 └── README.md
+
+
 📦 Features
 Upload PDF or TXT files
 
