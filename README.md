@@ -93,12 +93,12 @@ Users answer and receive:
 
 📦 Features
 
-      Upload PDF or TXT files
+   Upload PDF or TXT files
       
-      Summarize documents in plain English
+   Summarize documents in plain English
       
-      Ask intelligent questions with answer justifications
+   Ask intelligent questions with answer justifications
       
-      Evaluate your understanding via AI-generated challenges
+   Evaluate your understanding via AI-generated challenges
       
-      Clean and interactive Streamlit interface
+   Clean and interactive Streamlit interface
