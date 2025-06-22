@@ -1,12 +1,9 @@
 import streamlit as st
 import PyPDF2
-import io
 import re
-import json
 from typing import List, Dict, Tuple
 import google.generativeai as genai
-from datetime import datetime
-import os
+
 
 class DocumentProcessor:
     def __init__(self):
